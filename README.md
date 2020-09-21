@@ -33,3 +33,29 @@ pandas, numpy, … ).
 - Evaluating mode and read a final value for accuracy.
 
 - Test model in some samples.
+
+# Evaluation
+-  plot graph for train accuracy evaluation with each epoch.
+
+![Picture1](img/accuracy.PNG)
+
+- plot graph for train loss value evaluation with each epoch.
+
+![Picture1](img/loss.PNG)
+
+- plot graph for validation accuracy evaluation with each epoch.
+
+![Picture1](img/val_accuracy.PNG)
+
+- plot graph for validation loss value evaluation with each epoch.
+
+![Picture1](img/val_loss.PNG)
+
+- clasification report.
+
+![Picture1](img/classification_report.PNG)
+
+# Output
+![Picture1](img/out_put.PNG)
+
+
